@@ -1,1 +1,1 @@
-Data được sử dụng trong AW
+Data được sử dụng trong AWK
